@@ -1,7 +1,7 @@
-<h1>ID card generator 2021</h1>
-
+<h1 align="center">ID card generator 2021</h1>
+<p align="center">
 <img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1627221002/Blogimages/id-card-generator-2021_cl7q1v.png" width="800"/>
-
+</p>
 Student ID Card generator project built using HTML and Javascript
 
 <h2>Technologies learnt by building this project:-</h2>
