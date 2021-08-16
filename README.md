@@ -12,10 +12,8 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1627221153/Blogimages/Screenshot_2021-07-25_at_7.22.13_PM_h3qrut.png" alt="shields" style="width: 800px; height: 400px;">
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1627221153/Blogimages/Screenshot_2021-07-25_at_7.22.13_PM_h3qrut.png" alt="shields" style="width: 600px; height: 200px;">
 
-  
-  
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
