@@ -20,7 +20,7 @@
 
 Here're some of the project's best features:
 
-*   Create Id cards in real time
+*   Create virtual Id cards in real-time
 *   Form driven UI
 
 <h2>🛠️ Installation Steps:</h2>
@@ -37,14 +37,13 @@ git clone https://github.com/saurabhnative/id-card-generator-2021
 
 Please contribute using GitHub Flow. Create a branch add commits and open a pull request.
 
-  
-  
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
 
 *   TailwindCSS
 *   Javascript
+*   CSS
 
 <h2>🛡️ License:</h2>
 
