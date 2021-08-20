@@ -12,24 +12,26 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1627221153/Blogimages/Screenshot_2021-07-25_at_7.22.13_PM_h3qrut.png" alt="shields" style="width: 600px; height: 200px;">
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1629131458/Blogimages/Screenshot_2021-07-25_at_7.22.13_PM_h3qrut.png" alt="shields" style="width: 500px; height: 300px;">
 
+  
+  
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
 
-*   Virtual Id Card Generation
-*   Data can be updated dynamically
+*   Create Id cards in real time
+*   Form driven UI
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Download the project</p>
+<p>1. Clone the repo</p>
 
 ```
 git clone https://github.com/saurabhnative/id-card-generator-2021
 ```
 
-<p>2. Start a local HTTP server</p>
+<p>2. Run using any local server</p>
 
 <h2>🍰 Contribution Guidelines:</h2>
 
@@ -43,8 +45,6 @@ Technologies used in the project:
 
 *   TailwindCSS
 *   Javascript
-*   HTML
-*   CSS Animations
 
 <h2>🛡️ License:</h2>
 
